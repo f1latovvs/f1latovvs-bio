@@ -1,0 +1,21 @@
+@media (min-width:0px) and (max-width:425px) {
+	.main .block_info .promo_text {
+		font-size: 28px;
+   		text-align: center;
+    	line-height: 40px;
+	}
+	.main .block_info .video {
+		height: 41vh;
+	}
+	.main .block_info .promo_help
+	{
+		margin-top: 5%;
+	}
+	
+	
+}
+@media (min-width:0px) and (max-width:375px) {
+	
+}
+@media (min-width:0px) and (max-width:320px) {
+}
